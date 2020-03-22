@@ -30,9 +30,18 @@ sources/
 # SCREENRECORDS
 *.mp4
 
+# ARCHIVE
+*.zip
+*.tar
+
+# BACKUPS
+*.ab
+*.back
+
 # TEMP
 TEMP/
 temp.*
+*~
 
 # OTHERS
 apps/
