@@ -1,9 +1,14 @@
-# ANDROID-SDK DIR
+# ANDROID-SDK FILES & DIRECTORIES
+.knownPackages
 build-tools/
+cmake/
 docs/
 emulator/
 extras/
 licenses/
+lldb/
+ndk-bundle/
+ndk/
 patcher/
 platforms/
 platform-tools/
@@ -11,6 +16,7 @@ tools/
 samples/
 skins/
 sources/
+system-images/
 SDK Readme.txt
 
 # APK / ABB
