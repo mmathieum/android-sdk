@@ -1,6 +1,7 @@
 # ANDROID-SDK FILES & DIRECTORIES
 .knownPackages
 build-tools/
+cmdline-tools/
 cmake/
 docs/
 emulator/
