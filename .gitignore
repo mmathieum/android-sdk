@@ -18,6 +18,7 @@ samples/
 skins/
 sources/
 system-images/
+system-images
 SDK Readme.txt
 
 # APK / ABB
@@ -58,3 +59,6 @@ temp.*
 apps/
 ant/
 arc/
+
+#MT
+mt/
