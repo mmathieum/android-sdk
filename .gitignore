@@ -6,6 +6,7 @@ cmake/
 docs/
 emulator/
 extras/
+icons/
 licenses/
 lldb/
 ndk-bundle/
