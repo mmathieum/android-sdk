@@ -52,6 +52,7 @@ SDK Readme.txt
 # TEMP
 TEMP/
 temp.*
+.temp/
 *~
 *output*
 *.out
@@ -63,3 +64,6 @@ arc/
 
 #MT
 mt/
+
+# Mac OS X
+.DS_Store
